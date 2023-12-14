@@ -1,2 +1,2 @@
-# PINNs-Temperature-Field
-This is a programming which describes the PINN tools to solve the temperature field based on few measurement points.
+# PINNs-Temperature_Field
+# This is a program which uses the PINNs to solve the temperature field based on few measurement points.
